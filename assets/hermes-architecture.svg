@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="340" viewBox="0 0 1280 340" role="img" aria-labelledby="title desc">
+  <title id="title">AMYR-Agent architecture</title><desc id="desc">Telegram connects to a Cloudflare Worker, which uses Gemini, D1, Workers AI and optional integrations.</desc>
+  <defs><linearGradient id="b" x2="1" y2="1"><stop stop-color="#0f173c"/><stop offset="1" stop-color="#192b4f"/></linearGradient><linearGradient id="a" x2="1"><stop stop-color="#786dff"/><stop offset="1" stop-color="#35d7bf"/></linearGradient></defs>
+  <rect width="1280" height="340" rx="22" fill="url(#b)"/>
+  <text x="45" y="48" fill="#f7f9ff" font-size="27" font-weight="700" font-family="Segoe UI,Arial">How Hermes works</text>
+  <g font-family="Segoe UI,Arial" text-anchor="middle">
+    <rect x="50" y="108" width="218" height="157" rx="20" fill="#223969" stroke="#5a83b7"/><circle cx="159" cy="149" r="21" fill="#58b7eb"/><path d="m148 149 25-9-8 23-7-8-7 4 2-8z" fill="#fff"/><text x="159" y="202" fill="#fff" font-size="22" font-weight="700">Telegram</text><text x="159" y="231" fill="#bad0ee" font-size="15">Chat · Voice · Mini App</text>
+    <rect x="375" y="108" width="272" height="157" rx="20" fill="#2b2862" stroke="#9284fa"/><circle cx="511" cy="149" r="21" fill="url(#a)"/><text x="511" y="156" fill="#11163c" font-size="19" font-weight="900">H</text><text x="511" y="202" fill="#fff" font-size="22" font-weight="700">Cloudflare Worker</text><text x="511" y="231" fill="#d0caff" font-size="15">Hermes agent · tools · routing</text>
+    <rect x="759" y="88" width="188" height="77" rx="17" fill="#184e5b" stroke="#39d8c2"/><text x="853" y="121" fill="#fff" font-size="20" font-weight="700">Gemini</text><text x="853" y="145" fill="#b9fff2" font-size="14">Reasoning</text>
+    <rect x="982" y="88" width="232" height="77" rx="17" fill="#264264" stroke="#6ea7de"/><text x="1098" y="121" fill="#fff" font-size="20" font-weight="700">Cloudflare D1</text><text x="1098" y="145" fill="#c7e2fc" font-size="14">Memory · settings</text>
+    <rect x="759" y="187" width="188" height="77" rx="17" fill="#184e5b" stroke="#39d8c2"/><text x="853" y="220" fill="#fff" font-size="20" font-weight="700">Workers AI</text><text x="853" y="244" fill="#b9fff2" font-size="14">Voice · media</text>
+    <rect x="982" y="187" width="232" height="77" rx="17" fill="#264264" stroke="#6ea7de"/><text x="1098" y="220" fill="#fff" font-size="20" font-weight="700">Integrations</text><text x="1098" y="244" fill="#c7e2fc" font-size="14">Search · TTS · images</text>
+  </g>
+  <g fill="none" stroke="url(#a)" stroke-width="3" stroke-linecap="round"><path d="M277 187h87"/><path d="M656 187h62V126h31"/><path d="M718 187v39h31"/><path d="M947 126h25"/><path d="M947 226h25"/></g>
+  <g fill="#42dfc6"><path d="m363 187-10-6v12zM748 126l-10-6v12zM748 226l-10-6v12zM971 126l-10-6v12zM971 226l-10-6v12z"/></g>
+</svg>

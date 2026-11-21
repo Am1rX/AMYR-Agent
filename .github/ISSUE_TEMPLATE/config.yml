@@ -1,0 +1,6 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 🛡️ Security vulnerability
+    url: https://github.com/Am1rX/AMYR-Agent/security
+    about: Please report security issues privately — never in public issues.
+

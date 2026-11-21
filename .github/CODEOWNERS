@@ -1,0 +1,8 @@
+# Default code owners — everything requires maintainer review.
+* @Am1rX
+
+# Security-critical areas — always reviewed by the maintainer.
+/src/index.ts @Am1rX
+/wrangler.toml.example @Am1rX
+/.github/workflows/ @Am1rX
+
